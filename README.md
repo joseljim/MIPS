@@ -4,6 +4,12 @@ The objective was to design and model a single-cycle MIPS with Interlocked Pipel
 
 The designed architecture works as follows, first a controller that can read instructions and send flags to our diferent modules in order to enable MUX modules, decoders and logic gates to select the desired path for the data, an instruction decoder that selects the operation that must be done and sends that information to the ALU. The ALU is capable of doing a variety of operations and finally the register file of 32 directions that allows to move data between instructions.
 
+## Team
+
+* José Luis Jiménez Arévalo [joseljim](https://github.com/joseljim)
+* Luis ALfredo Aceves Astengo [A01229441](https://github.com/A01229441)
+* Eduardo García Olmos [EDUARDOGO](https://github.com/EGO72)
+
 ## Encoding
 
 <img width="641" alt="Screen Shot 2022-02-22 at 20 21 22" src="https://user-images.githubusercontent.com/78834111/155374385-96c7286f-befb-4d9e-989c-09afcb2b8177.png">
