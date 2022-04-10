@@ -1,4 +1,4 @@
-# MIPS
+# MIPS (11/2019)
 
 The objective was to design and model a single-cycle MIPS with Interlocked Pipeline Stage. The design supports J-Type instructions, R-type instructions that are useful to make operations and save data between registers, I-type instructions to read write instructions from the data memory and J-type instructions to make program counter moves.
 
